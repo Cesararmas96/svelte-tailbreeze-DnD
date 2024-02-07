@@ -26,6 +26,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"chartjs-adapter-moment": "^1.0.1",
+		"jsvectormap": "^1.5.3",
 		"svelte-grid-extended": "^1.1.4"
 	}
 }
